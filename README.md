@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">I'm Kalpanath, a full-time full-stack  developer 👨‍💻</div>  
+### <div align="center">I'm Kalpanath, a full-stack developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [ChatGpt clone]  
