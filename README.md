@@ -18,7 +18,8 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces
+- [![GitHub Streak](https://streak-stats.demolab.com?user=kalpanathmajhi&theme=dark)](https://git.io/streak-stats)
   
 
 <a href="https://www.linkedin.com/in/kalpanath-majhi/" target="_blank">
