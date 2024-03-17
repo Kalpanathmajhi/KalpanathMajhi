@@ -9,7 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/sparsh209" target="blank"><img src="https://img.shields.io/twitter/follow/sparsh209?logo=twitter&style=for-the-badge" alt="sparsh209" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+- Currently SDE-1 at Glide Insurance (Hyderabad)
+
+- 🌱 I’m currently learning **Machine Learning and NLP**
 
 - 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/kalpanathmajhi/?edit=true]
 
