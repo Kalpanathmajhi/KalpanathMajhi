@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and NLP**
 
-- 👨‍💻 All of my projects are available at [kalpanath-portfolio.netlify.app]
+- 👨‍💻 All of my projects are available at [https://kalpanath-portfolio.netlify.app]
 
 
 
