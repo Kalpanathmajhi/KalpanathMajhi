@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&vCenter=true&random=false&width=521&lines=I+am+a+Software+Developer..;I+am+a+Full+Stack+Developer.." alt="Typing SVG" /></a>
 <h3 align="center">Software Developer | Full Stack Developer </h3>
 
-<img align="right" alt="Coding" width="400" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kalpanathmajhi&label=Profile%20views&color=0e75b6&style=flat" alt="Kalpanathmajhi" /> </p>
 
