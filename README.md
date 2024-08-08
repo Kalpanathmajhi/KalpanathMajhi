@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/KalpanathMajhi" target="blank"><img src="https://img.shields.io/twitter/follow/KalpanathMajhi?logo=twitter&style=for-the-badge" alt="KalpanathMajhi" /></a> </p>
 
-- Currently SDE-1 at Glide Insurance (Hyderabad)
+- Currently SDE-1 
 
 - 🌱 I’m currently learning **Machine Learning and NLP**
 
